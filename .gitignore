@@ -1,6 +1,6 @@
 *env
 __pycache__
 .vscode
-AI
 *temp*
 *secret*
+.terraform*
